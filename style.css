@@ -1,0 +1,17 @@
+.hero-section {
+    background-blend-mode: darken;
+    color: #fff;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);
+  }
+  
+  .card {
+    border: none;
+  }
+  
+  .card-title {
+    font-weight: bold;
+    color: #007bff;
+  }
+  .custom-margin .col-md-4 {
+    margin-bottom: 40px; /* Adjust as needed */
+  }  
